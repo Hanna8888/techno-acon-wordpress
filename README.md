@@ -5,6 +5,7 @@
 # Portfolio-Website
 
 - Is a responsive template to showcase your portfolio
+- Moved to wordpress
 - It was built with bootstrap 
 - The code is well structured and easy to modify
 - Consists of three pages: Home, About me, Portfolio
